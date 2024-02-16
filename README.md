@@ -1,3 +1,3 @@
 # Saccharomyces-bayanus
 
-### Chromosome-level Diploid Genome Assembly of  Saccharomyces bayanus using Nanopore MinION and Comparative Analysis of Assembly Methods
+### Haplotype-resolved Chromosome-level Genome Assembly of Saccharomyces bayanus Provides Insight into Genome Divergence after Hybridization
