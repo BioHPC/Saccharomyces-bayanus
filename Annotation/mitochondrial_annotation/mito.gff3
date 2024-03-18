@@ -1,0 +1,44 @@
+##gff-version 3
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	source	1	64655	.	+	1	mol_type=genomic DNA;note=contig_6,scaffold 1;organism=sbmt-annotated_by_ygap
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	677	880	.	+	1	gene=SBMT0A00100
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	CDS	677	880	.	+	1	gene=SBMT0A00100;locus_tag=SBMT_0A00100;product=hypothetical protein;transl_table=1;translation=MFNLLNTYITSPLDQFEIRLLLGLQSSFIDLSCLNLTTFSLYTIIVLLVILCLYLLTTNNNKIIGSR
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	8345	8575	.	+	1	gene=SBMT0A00110
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	CDS	8345	8575	.	+	1	gene=SBMT0A00110;locus_tag=SBMT_0A00110;product=hypothetical protein;transl_table=1;translation=MQLVLAAKYIGAGISTIGLLGAGIGIAIVFAALINGVSRNPSIKDLVFPMAILGFALSEATGLFCLMVSFLLLFGV
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	13305	13391	.	-	1	gene=SBMT0Atrna1S
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	13305	13391	.	-	1	gene=SBMT0Atrna1S;locus_tag=SBMT_0Atrna1S;note=codon recognized: UCA;product=tRNA-Ser
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	22418	22488	.	+	1	gene=SBMT0Atrna1
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	22418	22488	.	+	1	gene=SBMT0Atrna1;locus_tag=SBMT_0Atrna1;note=codon recognized: UGA;product=tRNA-Sup
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	28261	28333	.	+	1	gene=SBMT0Atrna1T
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	28261	28333	.	+	1	gene=SBMT0Atrna1T;locus_tag=SBMT_0Atrna1T;note=codon recognized: ACA;product=tRNA-Thr
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	28863	28933	.	+	1	gene=SBMT0Atrna1H
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	28863	28933	.	+	1	gene=SBMT0Atrna1H;locus_tag=SBMT_0Atrna1H;note=codon recognized: CAC;product=tRNA-His
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	29314	29395	.	+	1	gene=SBMT0Atrna1L
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	29314	29395	.	+	1	gene=SBMT0Atrna1L;locus_tag=SBMT_0Atrna1L;note=codon recognized: UUA;product=tRNA-Leu
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	30069	30141	.	+	1	gene=SBMT0Atrna1R
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	30069	30141	.	+	1	gene=SBMT0Atrna1R;locus_tag=SBMT_0Atrna1R;note=codon recognized: AGA;product=tRNA-Arg
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	30971	31041	.	+	1	gene=SBMT0Atrna2R
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	30971	31041	.	+	1	gene=SBMT0Atrna2R;locus_tag=SBMT_0Atrna2R;note=codon recognized: CGU;product=tRNA-Arg
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	31463	31535	.	+	1	gene=SBMT0Atrna1A
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	31463	31535	.	+	1	gene=SBMT0Atrna1A;locus_tag=SBMT_0Atrna1A;note=codon recognized: GCA;product=tRNA-Ala
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	31623	31695	.	+	1	gene=SBMT0Atrna1I
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	31623	31695	.	+	1	gene=SBMT0Atrna1I;locus_tag=SBMT_0Atrna1I;note=codon recognized: AUC;product=tRNA-Ile
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	32362	32433	.	+	1	gene=SBMT0Atrna1N
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	32362	32433	.	+	1	gene=SBMT0Atrna1N;locus_tag=SBMT_0Atrna1N;note=codon recognized: AAC;product=tRNA-Asn
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	32577	32650	.	+	1	gene=SBMT0Atrna1M
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	32577	32650	.	+	1	gene=SBMT0Atrna1M;locus_tag=SBMT_0Atrna1M;note=codon recognized: AUG;product=tRNA-Met
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	33368	33535	.	+	1	gene=SBMT0A00120
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	CDS	33368	33535	.	+	1	gene=SBMT0A00120;locus_tag=SBMT_0A00120;product=hypothetical protein;transl_table=1;translation=MLDLLRLQLTTVIINDVPTPYACYFQDSATPNQEGILELHDNIMFYLFVILGLVS
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	34795	34929	.	+	1	gene=SBMT0A00130
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	CDS	34795	34929	.	+	1	codon_start=1;gene=SBMT0A00130;inference=similar to DNA sequence:INSDC:YBR272C;locus_tag=SBMT_0A00130;note=similar to Saccharomyces cerevisiae HSM3 (YBR272C)%3B ancestral locus Anc_1.333,ancestral locus Anc_1.333;product=hypothetical protein;transl_table=1;translation=ILGFLEAEGSFLINNTRNSCRLFISQHEQSKKTLEVIKDYILNN
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	36617	36688	.	+	1	gene=SBMT0Atrna1F
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	36617	36688	.	+	1	gene=SBMT0Atrna1F;locus_tag=SBMT_0Atrna1F;note=codon recognized: UUC;product=tRNA-Phe
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	37296	37368	.	+	1	gene=SBMT0Atrna1V
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	tRNA	37296	37368	.	+	1	gene=SBMT0Atrna1V;locus_tag=SBMT_0Atrna1V;note=codon recognized: GUA;product=tRNA-Val
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	49772	49966	.	+	1	gene=SBMT0A00140
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	CDS	49772	49966	.	+	1	gene=SBMT0A00140;locus_tag=SBMT_0A00140;product=hypothetical protein;transl_table=1;translation=MFIIRRKSAVINIFILIKYKFKIFITQRLNSSYLNTIIIHDKNHELNTDNPIYAYIVGLFEGDG
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	50859	51269	.	+	1	gene=SBMT0A00150
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	CDS	50859	51269	.	+	1	gene=SBMT0A00150;locus_tag=SBMT_0A00150;product=hypothetical protein;transl_table=1;translation=MGEENIFNIICNYQHYFCSVSNPLIQRFFALHYLVPFVIAAMVIMHMMALHIHGSSNPLGITGNLDRIPMHSYFVFKDLVTVFLFMLVLALFVFYSPNTLGHPDNYIPGNPLVTPASIENHQIVFILNNHILIKYK
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	56493	56747	.	+	1	gene=SBMT0A00160
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	CDS	56493	56747	.	+	1	gene=SBMT0A00160;locus_tag=SBMT_0A00160;product=hypothetical protein;transl_table=1;translation=MLAIFSGMAGTAMSLIIRLELAAPGSQYLQGNAQLFNVLVVGHAVLIIFFLVMPSLIGGFGNYLLPLMIGATDTAFPRINNIAF
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	gene	61520	61921	.	+	1	gene=SBMT0A00170
+sbmt_scaffold_1	EMBL/GenBank/SwissProt	CDS	61520	61921	.	+	1	codon_start=1;gene=SBMT0A00170;locus_tag=SBMT_0A00170;product=hypothetical protein;transl_table=1;translation=VNKNNYIILTYYIFLYITLNYHIIFNLLLLIDNLYKKTYESIINEYTNVIDKYFINIDKDKINKLKFLDNYTEDEKGYYLSGLFEGDGNIYTRCFTIIFSLEDVILADYLCLYFKIGHITARYNNKKELTAVE
