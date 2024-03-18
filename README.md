@@ -18,8 +18,6 @@ This repository contains the supplemental material for "Chromosome-level Subgeno
 
 #### Genome Annotation
 
-Provides annotations for the nuclear genome:
-
 - [`Methods_genome_annotation.docx`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Annotation/genome_annotation/Methods_genome_annotation.docx): Describes the methods used for genome annotation.  
 - [`Sbay.cds.fasta`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Annotation/genome_annotation/Sbay.cds.fasta): Coding sequences.  
 - [`Sbay.gff3`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Annotation/genome_annotation/Sbay.gff3): General feature format file for genome annotations.  
@@ -30,8 +28,6 @@ Provides annotations for the nuclear genome:
 - [`supplementary_tablex_functional_annotations.xlsx`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Annotation/genome_annotation/supplementary_tablex_functional_annotations.xlsx): Excel file containing functional annotations.
 
 #### Mitochondrial Annotation
-
-Includes mitochondrial genome annotations:
 
 - [`EMBL.zip`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Annotation/mitochondrial_annotation/EMBL.zip): EMBL file format annotations.  
 - [`GENBANK.zip`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Annotation/mitochondrial_annotation/GENBANK.zip): GenBank file format annotations.  
