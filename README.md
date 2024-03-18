@@ -11,10 +11,7 @@ This repository contains the supplemental material for "Chromosome-level Subgeno
 - [`Sbay_genomic_asm.fasta`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Assembly/Sbay_genomic_asm.fasta): Genomic assembly of Saccharomyces bayanus.  
 - [`Sbay_subgenome_a.fasta`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Assembly/Sbay_subgenome_a.fasta): Assembly of subgenome A.  
 - [`Sbay_subgenome_b.fasta`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Assembly/Sbay_subgenome_b.fasta): Assembly of subgenome B.
-
-  
-<br/>- [`Sbayanus_mitochondrial_asm.fasta`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Assembly/Sbayanus_mitochondrial_asm.fasta): Mitochondrial genome assembly.
-
+- [`Sbayanus_mitochondrial_asm.fasta`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Assembly/Sbayanus_mitochondrial_asm.fasta): Mitochondrial genome assembly.
 - [`Sbay_all_asm.fasta`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Assembly/Sbay_all_asm.fasta): Full assembly, including both haplotypes and mitochondrial genome.
 
 ### Annotation
@@ -41,4 +38,3 @@ Includes mitochondrial genome annotations:
 - [`mito.gff3`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Annotation/mitochondrial_annotation/mito.gff3): General feature format file for mitochondrial annotations.  
 - [`sbay_mt.fasta`](https://github.com/BioHPC/Saccharomyces-bayanus/blob/main/Annotation/mitochondrial_annotation/sbay_mt.fasta): Mitochondrial DNA sequence.
 
-&nbsp;
